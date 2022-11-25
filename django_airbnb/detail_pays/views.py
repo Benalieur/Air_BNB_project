@@ -5,11 +5,11 @@ import pandas as pd
 
 def detail_pays_view(request):
 
-    df_london = pd.read_csv('/home/apprenant/Documents/Air_BNB_project/django_airbnb/data_set/london.csv')
+    df_london = pd.read_csv('/home/apprenant/Documents/Air_BNB_project/django_airbnb/responses_csv/df_q1.csv')
     df_london=df_london.groupby('neighbourhood_cleansed').agg({"host_id": 'count', 'number_of_reviews' : 'sum'})
     html_london = df_london.to_html()
 
-    
+
 
     context={
         'df_london' : html_london
