@@ -1,23 +1,34 @@
 neighbourhood_cleansed,host_id,number_of_reviews
-Bijlmer-Centrum,94,4964
-Bijlmer-Oost,34,983
-Bos en Lommer,308,10586
-Buitenveldert - Zuidas,143,5691
-Centrum-Oost,635,45227
-Centrum-West,888,69068
-De Aker - Nieuw Sloten,90,6330
-De Baarsjes - Oud-West,1001,40372
-De Pijp - Rivierenbuurt,710,30418
-Gaasperdam - Driemond,92,5042
-Geuzenveld - Slotermeer,113,5260
-IJburg - Zeeburgereiland,175,6088
-Noord-Oost,200,10004
-Noord-West,202,7776
-Oostelijk Havengebied - Indische Buurt,235,9500
-Osdorp,65,6921
-Oud-Noord,290,13076
-Oud-Oost,371,14037
-Slotervaart,122,6078
-Watergraafsmeer,248,9156
-Westerpark,449,16829
-Zuid,428,19498
+Barking and Dagenham,433,3901
+Barnet,1611,19555
+Bexley,411,3823
+Brent,2068,32540
+Bromley,594,7632
+Camden,4707,103929
+City of London,424,12187
+Croydon,1066,14868
+Ealing,1553,27183
+Enfield,617,8938
+Greenwich,1514,24111
+Hackney,5168,74931
+Hammersmith and Fulham,2996,57020
+Haringey,1898,29907
+Harrow,444,6527
+Havering,329,3600
+Hillingdon,714,17265
+Hounslow,1078,20334
+Islington,3790,75901
+Kensington and Chelsea,4612,80898
+Kingston upon Thames,609,9960
+Lambeth,3719,77669
+Lewisham,2016,26555
+Merton,1114,13502
+Newham,1682,25543
+Redbridge,669,8487
+Richmond upon Thames,1108,26401
+Southwark,3968,77963
+Sutton,286,5171
+Tower Hamlets,5595,90792
+Waltham Forest,1322,17113
+Wandsworth,3473,55979
+Westminster,7763,156027
