@@ -1,34 +1,34 @@
-neighbourhood_cleansed,host_id,number_of_reviews
-Barking and Dagenham,433,3901
-Barnet,1611,19555
-Bexley,411,3823
-Brent,2068,32540
-Bromley,594,7632
-Camden,4707,103929
-City of London,424,12187
-Croydon,1066,14868
-Ealing,1553,27183
-Enfield,617,8938
-Greenwich,1514,24111
-Hackney,5168,74931
-Hammersmith and Fulham,2996,57020
-Haringey,1898,29907
-Harrow,444,6527
-Havering,329,3600
-Hillingdon,714,17265
-Hounslow,1078,20334
-Islington,3790,75901
-Kensington and Chelsea,4612,80898
-Kingston upon Thames,609,9960
-Lambeth,3719,77669
-Lewisham,2016,26555
-Merton,1114,13502
-Newham,1682,25543
-Redbridge,669,8487
-Richmond upon Thames,1108,26401
-Southwark,3968,77963
-Sutton,286,5171
-Tower Hamlets,5595,90792
-Waltham Forest,1322,17113
-Wandsworth,3473,55979
-Westminster,7763,156027
+,neighbourhood_cleansed,host_id,number_of_reviews
+0,Barking and Dagenham,433,3901
+1,Barnet,1611,19555
+2,Bexley,411,3823
+3,Brent,2068,32540
+4,Bromley,594,7632
+5,Camden,4707,103929
+6,City of London,424,12187
+7,Croydon,1066,14868
+8,Ealing,1553,27183
+9,Enfield,617,8938
+10,Greenwich,1514,24111
+11,Hackney,5168,74931
+12,Hammersmith and Fulham,2996,57020
+13,Haringey,1898,29907
+14,Harrow,444,6527
+15,Havering,329,3600
+16,Hillingdon,714,17265
+17,Hounslow,1078,20334
+18,Islington,3790,75901
+19,Kensington and Chelsea,4612,80898
+20,Kingston upon Thames,609,9960
+21,Lambeth,3719,77669
+22,Lewisham,2016,26555
+23,Merton,1114,13502
+24,Newham,1682,25543
+25,Redbridge,669,8487
+26,Richmond upon Thames,1108,26401
+27,Southwark,3968,77963
+28,Sutton,286,5171
+29,Tower Hamlets,5595,90792
+30,Waltham Forest,1322,17113
+31,Wandsworth,3473,55979
+32,Westminster,7763,156027
