@@ -1,0 +1,26 @@
+{% url 'detail' as url_detail %}
+{% comment %} {% url 'home' as url_home%} {% endcomment %}
+
+
+
+<div class="container">
+    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+        <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+          <span class="fs-4">Air BNB Data</span>
+        </a>
+      <ul class="nav nav-pills">
+        {% comment %} {% if request.path == url_home  %}
+        <li class="nav-item"><a href="{{url_home}}" class="nav-link active" aria-current="page">Home</a></li>
+        {% else %}
+        <li class="nav-item"><a href="{{url_home}}" class="nav-link " aria-current="page">Home</a></li>
+        {% endif %} {% endcomment %}
+
+        {% if request.path == url_detail  %}
+        <li class="nav-item"><a href="{{url_detail}}" class="nav-link active" aria-current="page">Detail Pays</a></li>
+        {% else %}
+        <li class="nav-item"><a href="{{url_detail}}" class="nav-link " aria-current="page">Detail Pays</a></li>
+        {% endif %}
+      </ul>
+    </header>
+
+  </div>
